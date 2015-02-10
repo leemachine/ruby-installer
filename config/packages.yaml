@@ -1,0 +1,4 @@
+PYTHON_VERSION: 'Python-2.7.8'
+CHEETAH_VERSION: 'Cheetah-2.4.4'
+GR_VERSION: 'gnuradio-3.7.4'
+UHD_VERSION: 'uhd-source_003.007.001-release'

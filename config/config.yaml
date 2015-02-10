@@ -1,0 +1,5 @@
+#This is where you define constants like the install prefix and the git username & server
+PREFIX: 'prefix'
+USERNAME: 'username'
+PASSWD: 'password'
+GITSERVER: 'gitserver'
